@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "caching"
+    }
+  },
+  "defaultProject": "caching",
+  "cli": {
+    "analytics": false
+  }
 }
